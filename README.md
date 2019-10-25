@@ -25,4 +25,4 @@ After that Click create pull request and its done.
 
 As simple as that.
 
-You have done your first pull request similarly do other three pull requests.
+You have done your first pull request similarly do other three pull requests to complete hacktoctober fest.
