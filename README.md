@@ -1,12 +1,12 @@
 # First-Pull-Request
 Just add your name in the list and create a pull request
 
-Great to see you here!!
+Great to see you here!!!
 
 Lets start how to do a PULL REQUEST.
 For that you need to fork the repository.
 
-Fork this repository 
+Fork this repository:
 [First-Pull-Request](https://github.com/HacktoberFest-CU/First-Pull-Request)
 
 Click on Fork Button.
@@ -23,6 +23,6 @@ After commit you need to do final pull request for that go to pull request secti
 
 After that Click create pull request and its done.
 
-As simple as that.
+As simple as it is.
 
 You have done your first pull request similarly do other three pull requests.
